@@ -118,9 +118,9 @@ dotnet run
 
 ## Recursos Úteis
 
-- [Documentação .NET](https://docs.microsoft.com/dotnet/)
-- [POO em C#](https://docs.microsoft.com/dotnet/csharp/fundamentals/object-oriented/)
-- [Classes Abstratas](https://docs.microsoft.com/dotnet/csharp/language-reference/keywords/abstract)
+- [Documentação .NET](https://learn.microsoft.com/dotnet/)
+- [POO em C#](https://learn.microsoft.com/dotnet/csharp/fundamentals/object-oriented/)
+- [Classes Abstratas](https://learn.microsoft.com/dotnet/csharp/language-reference/keywords/abstract)
 
 ## Dúvidas?
 
