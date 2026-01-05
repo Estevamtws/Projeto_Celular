@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "trilha-net-poo-desafio", "trilha-net-poo-desafio", "{A86E0B98-B961-7CCD-80A1-601BD7ED8886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioPOO", "trilha-net-poo-desafio\DesafioPOO.csproj", "{F3C679D6-FD7D-E7AF-BBA9-D7E2A0E99555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C679D6-FD7D-E7AF-BBA9-D7E2A0E99555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C679D6-FD7D-E7AF-BBA9-D7E2A0E99555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C679D6-FD7D-E7AF-BBA9-D7E2A0E99555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C679D6-FD7D-E7AF-BBA9-D7E2A0E99555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3C679D6-FD7D-E7AF-BBA9-D7E2A0E99555} = {A86E0B98-B961-7CCD-80A1-601BD7ED8886}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC627BF-9427-4C2F-843E-0F222FAF6A63}
+	EndGlobalSection
+EndGlobal
